@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/ELB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59beba61f3c5573d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "md/Lambda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a48fcac9a3e44afa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "md/Auto Scaling Group.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad7c7aea5acacf70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/DVA_template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a3c38219ebec89a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "md/무제 파일.md",
+                "file": "md/ASG Policies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 343.5
   },
   "right": {
     "id": "e5b0602bc8ba5dfb",
@@ -153,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/무제 파일.md"
+                "file": "md/ASG Policies.md"
               }
             }
           },
@@ -173,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/무제 파일.md",
+                "file": "md/ASG Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/무제 파일.md",
+                "file": "md/ASG Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,22 +182,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a3c38219ebec89a",
+  "active": "df0421d4e1ec3956",
   "lastOpenFiles": [
-    "Template/DVA_template.md",
-    "md/무제 파일.md",
+    "md/ASG.md",
+    "md/ASG consol.md",
     "md/틀린거.md",
-    "aws_dva_obsidian",
-    "md/Auto Scaling Group.md",
-    "Image/DVA/Auto Scaling Group-1.png",
-    "md/Lambda.md",
+    "md/ELB Cross-Zone Load Balancing.md",
+    "md/ASG Policies.md",
+    "md/ALB.md",
     "md/ELB.md",
+    "Image/DVA/Auto Scaling Group-6.png",
+    "Image/DVA/Auto Scaling Group-5.png",
+    "Image/DVA/Auto Scaling Group-4.png",
+    "Image/DVA/Auto Scaling Group-3.png",
+    "Image/DVA/Auto Scaling Group-2.png",
+    "md/SSL.md",
+    "md/Security Group.md",
+    "md/NLB.md",
+    "md/EFS.md",
+    "md/context.mdb",
+    "md/EBS.md",
+    "md/md.md",
+    "테마.md",
+    "md/무제 파일.md",
+    "md/Lambda.md",
+    "Template/DVA_template.md",
+    "aws_dva_obsidian",
+    "Image/DVA/Auto Scaling Group-1.png",
     "md/ELB Sticky Sessions.md",
     "md/GWLB (GateWay Loadbalancer).md",
     "md/ELB Connection Draining.md",
-    "md/ELB Cross-Zone Load Balancing.md",
     "Image/DVA/ELB Connection Draining-1.png",
-    "md/SSL.md",
     "Image/DVA/SSL-1.png",
     "Image/DVA/ELB Cross-Zone Load Balancing-1.png",
     "md/IAM.md",
@@ -254,23 +221,8 @@
     "2023-10-11.md",
     "2023-W41.md",
     "md/2023-10-10.md",
-    "calendar/2023-10-10 dd.md",
-    "calendar/무제 파일.md",
-    "md/Ec2 User Data.md",
-    "md/EBS.md",
-    "md/Security Group.md",
     "calendar",
     "Image/DVA/ELB Sticky Sessions-1.png",
-    "md/EFS Mode.md",
-    "md/context.mdb",
-    "md/md.md",
-    "md/ALB.md",
-    "md/Ec2.md",
-    "Image/DVA/GWLB (GateWay Loadbalancer)-1.png",
-    "Image/DVA/GWLB (GateWay Loadbalancer).png",
-    "Image/DVA/GWLB (GateWay Loadbalancer)-2.png",
-    "Image/DVA/1-GWLB (GateWay Loadbalancer).png",
-    "Image/DVA/EFS-1.png",
     "Context",
     "무제 파일.canvas",
     "Image/DVA",
