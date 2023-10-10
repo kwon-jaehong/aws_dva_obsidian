@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a3c38219ebec89a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "md/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/DVA_template.md"
+                "file": "md/무제 파일.md"
               }
             }
           },
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/DVA_template.md",
+                "file": "md/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/DVA_template.md",
+                "file": "md/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +230,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad7c7aea5acacf70",
+  "active": "4a3c38219ebec89a",
   "lastOpenFiles": [
+    "Template/DVA_template.md",
+    "md/무제 파일.md",
     "md/틀린거.md",
     "aws_dva_obsidian",
     "md/Auto Scaling Group.md",
@@ -247,7 +261,6 @@
     "md/Security Group.md",
     "calendar",
     "Image/DVA/ELB Sticky Sessions-1.png",
-    "Template/DVA_template.md",
     "md/EFS Mode.md",
     "md/context.mdb",
     "md/md.md",
