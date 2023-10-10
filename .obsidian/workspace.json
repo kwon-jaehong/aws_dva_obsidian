@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/틀린거.md",
+                "file": "Template/DVA_template.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/틀린거.md"
+                "file": "Template/DVA_template.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/틀린거.md",
+                "file": "Template/DVA_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/틀린거.md",
+                "file": "Template/DVA_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,9 +220,9 @@
   },
   "active": "ad7c7aea5acacf70",
   "lastOpenFiles": [
+    "md/틀린거.md",
     "aws_dva_obsidian",
     "md/Auto Scaling Group.md",
-    "md/틀린거.md",
     "Image/DVA/Auto Scaling Group-1.png",
     "md/Lambda.md",
     "md/ELB.md",
