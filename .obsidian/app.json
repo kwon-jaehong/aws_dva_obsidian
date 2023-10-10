@@ -1,0 +1,11 @@
+{
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "autoConvertHtml": true,
+  "attachmentFolderPath": "Image/DVA",
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "md",
+  "alwaysUpdateLinks": true
+}

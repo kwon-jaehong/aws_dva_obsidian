@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "d13214cccd203c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eefedd9d8ecd472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df0421d4e1ec3956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "md/ELB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59beba61f3c5573d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "md/Lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a48fcac9a3e44afa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "md/Auto Scaling Group.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad7c7aea5acacf70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "md/틀린거.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1ff7937a1d9658a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9235a56230aec63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07e67cfd4672df10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b258e957e576286",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffb3ea22e1aa4fce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "bda440f213ba196a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e5b0602bc8ba5dfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "199b30bfe8cdc7d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2008b5977295e08c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2934e98f528bc80e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "md/틀린거.md"
+              }
+            }
+          },
+          {
+            "id": "656fb8d9104fd980",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "dd329c8e8aa6553a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "md/틀린거.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee5461fc6abc9d88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "md/틀린거.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9565b988dadd5d4f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "622b26dc9a7f29be",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ad7c7aea5acacf70",
+  "lastOpenFiles": [
+    "aws_dva_obsidian",
+    "md/Auto Scaling Group.md",
+    "md/틀린거.md",
+    "Image/DVA/Auto Scaling Group-1.png",
+    "md/Lambda.md",
+    "md/ELB.md",
+    "md/ELB Sticky Sessions.md",
+    "md/GWLB (GateWay Loadbalancer).md",
+    "md/ELB Connection Draining.md",
+    "md/ELB Cross-Zone Load Balancing.md",
+    "Image/DVA/ELB Connection Draining-1.png",
+    "md/SSL.md",
+    "Image/DVA/SSL-1.png",
+    "Image/DVA/ELB Cross-Zone Load Balancing-1.png",
+    "md/IAM.md",
+    "calendar/2023-10-10 fvg.md",
+    "2023-10-10.md",
+    "2023-10-11.md",
+    "2023-W41.md",
+    "md/2023-10-10.md",
+    "calendar/2023-10-10 dd.md",
+    "calendar/무제 파일.md",
+    "md/Ec2 User Data.md",
+    "md/EBS.md",
+    "md/Security Group.md",
+    "calendar",
+    "Image/DVA/ELB Sticky Sessions-1.png",
+    "Template/DVA_template.md",
+    "md/EFS Mode.md",
+    "md/context.mdb",
+    "md/md.md",
+    "md/ALB.md",
+    "md/Ec2.md",
+    "Image/DVA/GWLB (GateWay Loadbalancer)-1.png",
+    "Image/DVA/GWLB (GateWay Loadbalancer).png",
+    "Image/DVA/GWLB (GateWay Loadbalancer)-2.png",
+    "Image/DVA/1-GWLB (GateWay Loadbalancer).png",
+    "Image/DVA/EFS-1.png",
+    "Context",
+    "무제 파일.canvas",
+    "Image/DVA",
+    "md",
+    "Context/spacesLastSync.log",
+    "Image",
+    "Template"
+  ]
+}
