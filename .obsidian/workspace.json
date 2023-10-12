@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4eefedd9d8ecd472",
+        "id": "0703de63ad4946fd",
         "type": "tabs",
         "children": [
           {
-            "id": "df0421d4e1ec3956",
+            "id": "99c8954d2ef00810",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/ASG Policies.md",
+                "file": "틀린거.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/ASG Policies.md"
+                "file": "틀린거.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/ASG Policies.md",
+                "file": "틀린거.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/ASG Policies.md",
+                "file": "틀린거.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,47 +182,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df0421d4e1ec3956",
+  "active": "99c8954d2ef00810",
   "lastOpenFiles": [
-    "md/ASG.md",
-    "md/ASG consol.md",
-    "md/틀린거.md",
-    "md/ELB Cross-Zone Load Balancing.md",
-    "md/ASG Policies.md",
-    "md/ALB.md",
-    "md/ELB.md",
-    "Image/DVA/Auto Scaling Group-6.png",
-    "Image/DVA/Auto Scaling Group-5.png",
-    "Image/DVA/Auto Scaling Group-4.png",
-    "Image/DVA/Auto Scaling Group-3.png",
-    "Image/DVA/Auto Scaling Group-2.png",
-    "md/SSL.md",
-    "md/Security Group.md",
-    "md/NLB.md",
-    "md/EFS.md",
-    "md/context.mdb",
-    "md/EBS.md",
-    "md/md.md",
-    "테마.md",
-    "md/무제 파일.md",
+    "md/DynamoDB globalindex & localindex.md",
+    "틀린거.md",
+    "md/DynamoDB WCU & RCU.md",
+    "md/Lambda Concurrency.md",
+    "Image/DVA/Lambda Concurrency-2.png",
+    "Image/DVA/Lambda Concurrency-1.png",
     "md/Lambda.md",
-    "Template/DVA_template.md",
-    "aws_dva_obsidian",
-    "Image/DVA/Auto Scaling Group-1.png",
-    "md/ELB Sticky Sessions.md",
-    "md/GWLB (GateWay Loadbalancer).md",
-    "md/ELB Connection Draining.md",
-    "Image/DVA/ELB Connection Draining-1.png",
-    "Image/DVA/SSL-1.png",
-    "Image/DVA/ELB Cross-Zone Load Balancing-1.png",
+    "md/DynamoDB.md",
+    "md/DynamoDB Streams.md",
+    "Image/DVA/DynamoDB Streams-1.png",
+    "Image/DVA/DynamoDB globalindex & localindex-3.png",
+    "md/Ec2.md",
+    "md/EBS.md",
+    "md/EFS.md",
+    "md/ELB.md",
+    "md/EFS Mode.md",
+    "md/Ec2 User Data.md",
+    "md/DynamoDB consol1.md",
+    "Image/DVA/DynamoDB globalindex & localindex-2.png",
+    "Image/DVA/DynamoDB globalindex & localindex-1.png",
+    "Image/DVA/DynamoDB WCU & RCU-3.png",
+    "Image/DVA/DynamoDB WCU & RCU-2.png",
+    "Image/DVA/DynamoDB WCU & RCU-1.png",
+    "md/DynamoDB WCU - RCU.md",
+    "DynamoDB WCU / RCU.md",
+    "DynamoDB WCU ",
+    "DAV.md",
+    "Image/DVA/DynamoDB consol1-9.png",
+    "테마.md",
+    "md/RDS.md",
+    "md/Security Group.md",
+    "md/md.md",
+    "md/NLB.md",
     "md/IAM.md",
-    "calendar/2023-10-10 fvg.md",
-    "2023-10-10.md",
-    "2023-10-11.md",
-    "2023-W41.md",
-    "md/2023-10-10.md",
+    "md/GWLB (GateWay Loadbalancer).md",
+    "md/ASG.md",
+    "md/context.mdb",
+    "aws_dva_obsidian",
     "calendar",
-    "Image/DVA/ELB Sticky Sessions-1.png",
     "Context",
     "무제 파일.canvas",
     "Image/DVA",
