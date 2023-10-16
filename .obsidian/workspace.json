@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0703de63ad4946fd",
+        "id": "b8a8905fcd964fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "99c8954d2ef00810",
+            "id": "a6ed9021a0e3acd4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "md/Lambda.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1abd67edce25231b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "틀린거.md",
+                "file": "md/Lambda CloudFront.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 398.5
   },
   "right": {
     "id": "e5b0602bc8ba5dfb",
@@ -104,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "틀린거.md"
+                "file": "md/Lambda CloudFront.md"
               }
             }
           },
@@ -124,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "틀린거.md",
+                "file": "md/Lambda CloudFront.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "틀린거.md",
+                "file": "md/Lambda CloudFront.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,46 +197,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99c8954d2ef00810",
+  "active": "1abd67edce25231b",
   "lastOpenFiles": [
+    "md/Lambda.md",
+    "md/Lambda CloudFront.md",
+    "md/Lambda CloudFormation.md",
+    "Image/DVA/Lambda CloudFormation-4.png",
+    "Image/DVA/Lambda CloudFormation-3.png",
+    "Image/DVA/Lambda CloudFormation-2.png",
+    "Image/DVA/Lambda CloudFormation-1.png",
+    "md/Lambda Layers.md",
+    "Image/DVA/Lambda Layers-1.png",
+    "md/Lambda eventmapping.md",
+    "Image/DVA/Lambda eventmapping-3.png",
+    "Image/DVA/Lambda eventmapping-2.png",
+    "Image/DVA/Lambda eventmapping-1.png",
+    "md/Lambda monitoring.md",
+    "Image/DVA/Lambda monitoring-1.png",
+    "md/Lambda authority.md",
+    "md/Lambda URLs.md",
+    "Image/DVA/Lambda authority-2.png",
+    "md/Lambda Asynchronous.md",
+    "md/Lambda ALB Integration.md",
+    "틀린거.md",
+    "md/Lambda Concurrency.md",
+    "md/IAM.md",
+    "md/Lambda VPC.md",
     "테마.md",
     "DAV.md",
-    "틀린거.md",
     "md/DynamoDB.md",
     "Template/DVA_template.md",
     "md/2023-10-12.md",
-    "Image/DVA/EBS-1.png",
-    "Image/DVA/Auto Scaling Group-1.png",
     "무제 폴더",
     "md/DynamoDB globalindex & localindex.md",
     "md/DynamoDB WCU & RCU.md",
-    "md/Lambda Concurrency.md",
-    "Image/DVA/Lambda Concurrency-2.png",
-    "Image/DVA/Lambda Concurrency-1.png",
-    "md/Lambda.md",
     "md/DynamoDB Streams.md",
-    "Image/DVA/DynamoDB Streams-1.png",
-    "Image/DVA/DynamoDB globalindex & localindex-3.png",
     "md/Ec2.md",
     "md/EBS.md",
     "md/EFS.md",
     "md/ELB.md",
-    "md/EFS Mode.md",
-    "md/Ec2 User Data.md",
-    "md/DynamoDB consol1.md",
-    "Image/DVA/DynamoDB globalindex & localindex-2.png",
-    "Image/DVA/DynamoDB globalindex & localindex-1.png",
-    "Image/DVA/DynamoDB WCU & RCU-3.png",
-    "Image/DVA/DynamoDB WCU & RCU-2.png",
-    "md/DynamoDB WCU - RCU.md",
-    "DynamoDB WCU / RCU.md",
     "DynamoDB WCU ",
-    "md/RDS.md",
-    "md/Security Group.md",
-    "md/md.md",
-    "md/NLB.md",
-    "md/IAM.md",
-    "md/GWLB (GateWay Loadbalancer).md",
     "md/context.mdb",
     "aws_dva_obsidian",
     "calendar",

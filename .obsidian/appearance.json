@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Things",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "image-zoom"
+  ]
 }

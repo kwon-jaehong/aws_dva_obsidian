@@ -1,11 +1,17 @@
 {
   "livePreview": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showLineNumber": true,
   "autoConvertHtml": true,
   "attachmentFolderPath": "Image/DVA",
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "md",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
