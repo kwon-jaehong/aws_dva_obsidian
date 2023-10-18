@@ -17,12 +17,23 @@
 
 
 
+
+
+
+
+
+
 	- <mark style="background: #FFF3A3A6;">S3에 파일 업로드</mark>
 		- ![[Lambda CloudFormation-2.png]]
 		- S3Bucket - S3 버킷이름
 		- S3Key - 버킷에서 zip파일 위치
 		- S3ObjectVersion - S3에서 객체의 버전ID
 		- ![[Lambda CloudFormation-3.png]]
+
+
+
+
+
 
 
 

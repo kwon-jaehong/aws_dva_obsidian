@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "1abd67edce25231b",
+            "id": "b3cb41eee17aeeff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/Lambda CloudFront.md",
+                "file": "md/API GateWay.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 389.5
   },
   "right": {
     "id": "e5b0602bc8ba5dfb",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/Lambda CloudFront.md"
+                "file": "md/API GateWay.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/Lambda CloudFront.md",
+                "file": "md/API GateWay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/Lambda CloudFront.md",
+                "file": "md/API GateWay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,45 +197,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1abd67edce25231b",
+  "active": "b3cb41eee17aeeff",
   "lastOpenFiles": [
     "md/Lambda.md",
-    "md/Lambda CloudFront.md",
+    "md/API GateWay.md",
+    "md/Lambda etc.md",
+    "md/Lambda external dependencies.md",
+    "Image/DVA/Lambda etc-1.png",
     "md/Lambda CloudFormation.md",
-    "Image/DVA/Lambda CloudFormation-4.png",
-    "Image/DVA/Lambda CloudFormation-3.png",
-    "Image/DVA/Lambda CloudFormation-2.png",
-    "Image/DVA/Lambda CloudFormation-1.png",
-    "md/Lambda Layers.md",
-    "Image/DVA/Lambda Layers-1.png",
-    "md/Lambda eventmapping.md",
-    "Image/DVA/Lambda eventmapping-3.png",
-    "Image/DVA/Lambda eventmapping-2.png",
-    "Image/DVA/Lambda eventmapping-1.png",
-    "md/Lambda monitoring.md",
-    "Image/DVA/Lambda monitoring-1.png",
-    "md/Lambda authority.md",
     "md/Lambda URLs.md",
-    "Image/DVA/Lambda authority-2.png",
+    "md/Lambda CodeDeploy.md",
+    "Image/DVA/Lambda URLs-3.png",
+    "Image/DVA/Lambda URLs-2.png",
+    "Image/DVA/Lambda URLs-1.png",
+    "Image/DVA/Lambda CodeDeploy-2.png",
+    "Image/DVA/Lambda CodeDeploy-1.png",
+    "md/Distribution method.md",
+    "md/Lambda eventmapping.md",
+    "md/Lambda alias & version.md",
+    "Image/DVA/Distribution method-6.png",
+    "Image/DVA/blue-green-deployment-4787416bca99a5dd28577d99caa44340.gif",
+    "Image/DVA/Distribution method-6.png",
+    "Image/DVA/Distribution method-5.png",
+    "md/Lambda CloudFront.md",
+    "md/DynamoDB.md",
+    "md/Lambda VPC.md",
+    "md/Lambda Layers.md",
+    "md/Lambda monitoring.md",
+    "md/Lambda authority.md",
     "md/Lambda Asynchronous.md",
     "md/Lambda ALB Integration.md",
     "틀린거.md",
     "md/Lambda Concurrency.md",
     "md/IAM.md",
-    "md/Lambda VPC.md",
     "테마.md",
     "DAV.md",
-    "md/DynamoDB.md",
     "Template/DVA_template.md",
     "md/2023-10-12.md",
     "무제 폴더",
     "md/DynamoDB globalindex & localindex.md",
-    "md/DynamoDB WCU & RCU.md",
-    "md/DynamoDB Streams.md",
-    "md/Ec2.md",
-    "md/EBS.md",
-    "md/EFS.md",
-    "md/ELB.md",
     "DynamoDB WCU ",
     "md/context.mdb",
     "aws_dva_obsidian",

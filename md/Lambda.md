@@ -14,12 +14,6 @@
 
 
 
-- 람다 요금 정책
-	- 람다 실행 시간
-	- 람다 호출 횟수
-
-
-
 
 - AWS CLI 람다 호출 명령문 예시
 	- 동기식, 비동기식은 <mark style="background: #FF5582A6;">Invoke로 호출</mark>
@@ -27,10 +21,14 @@
 		- RequestResponse(기본값) - 함수를 동기적으로 호출합니다.
 		- Event - 비동기 호출
 		- DryRun - 매개변수값 유효성 검사 및 함수 호출권한 확인
+
+
 ```bash
 aws lambda invoke --function-name demo-lambda --cli-binary-format raw-in-base64-out --payload '{"key1": value}' --invocation-type Event --region -eu-west-1 response.json
 
 ```
+
+
 
 
 
@@ -45,7 +43,7 @@ aws lambda invoke --function-name demo-lambda --cli-binary-format raw-in-base64-
 - 람다는 Execution context(<mark style="background: #FF5582A6;">실행 컨텍스트</mark>)가 있음
 	- 실행 컨텍스트란?
 		- <mark style="background: #FFF3A3A6;">다시 함수가 호출될 것을 예상하고, 람다의 일정시간 자원/환경이 유지</mark>
-		- 즉, 짧은시간 <mark style="background: #ADCCFFA6;">여러번 호출하면 호출에 대한 컨텍스트를 재 사용함</mark>
+		- 즉, 짧은 시간 <mark style="background: #ADCCFFA6;">여러번 호출하면 호출에 대한 컨텍스트를 재 사용함</mark>
 		- 그래서 람다 함수 실행 (초기화)시간을 줄임
 
 
@@ -53,7 +51,6 @@ aws lambda invoke --function-name demo-lambda --cli-binary-format raw-in-base64-
 
 
 - 다음은 AWS Lambda 함수 작업에 대한 몇 가지 모범 사례입니다. 
-- https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/best-practices.html
 	- 핵심 로직에서 Lambda 핸들러(진입점)를 분리합니다. 이를 통해 <mark style="background: #ADCCFFA6;">단위 테스트</mark>를 수행할 수 있는 더 많은 함수를 만들 수 있습니다.
 	- 실행 컨텍스트(환경) 재사용을 활용하여 기능 성능을 향상시킵니다.
 	- AWS Lambda 환경 변수를 사용하여 작동 매개변수를 함수에 전달합니다.
@@ -71,6 +68,7 @@ aws lambda invoke --function-name demo-lambda --cli-binary-format raw-in-base64-
 ## 연결 문서
 
 - [[Lambda authority |람다와 권한]]
+- [[Lambda external dependencies |람다 외부종속성]]
 - [[Lambda Concurrency |람다 동시성]]
 - [[Lambda Asynchronous |람다 비동기]]
 - [[Lambda monitoring |람다 모니터링]]
@@ -82,8 +80,9 @@ aws lambda invoke --function-name demo-lambda --cli-binary-format raw-in-base64-
 - [[Lambda CloudFront|람다 Edge 및 클라우드프론트]]
 - [[Lambda alias & version |람다 버젼&별칭]]
 - [[Lambda CodeDeploy |람다 코드디플로이 통합]]
-- [[Lambda URLs|람다 URL]]
+- [[Lambda URLs|람다 URL]]ㅣ
 - [[Lambda etc|람다 기타]]
+
 
 
 ---
@@ -96,6 +95,8 @@ aws lambda invoke --function-name demo-lambda --cli-binary-format raw-in-base64-
 
 
 ## 참고 링크
+
+- https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/best-practices.html
 
 
 ---
