@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6ed9021a0e3acd4",
+            "id": "46c4d9f2fbbe378e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/Lambda.md",
+                "file": "틀린거.md",
                 "mode": "source",
                 "source": false
               },
@@ -24,17 +24,31 @@
           {
             "id": "b3cb41eee17aeeff",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "md/API GateWay.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "891e1777c44d2793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "md/API GateWay usage plans.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/API GateWay.md"
+                "file": "md/API GateWay usage plans.md"
               }
             }
           },
@@ -139,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/API GateWay.md",
+                "file": "md/API GateWay usage plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/API GateWay.md",
+                "file": "md/API GateWay usage plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,45 +211,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b3cb41eee17aeeff",
+  "active": "891e1777c44d2793",
   "lastOpenFiles": [
-    "md/Lambda.md",
     "md/API GateWay.md",
+    "md/API GateWay security.md",
+    "md/API GateWay usage plans.md",
+    "틀린거.md",
+    "Image/DVA/API GateWay security-8.png",
+    "Image/DVA/API GateWay security-7.png",
+    "Image/DVA/API GateWay security-6.png",
+    "Image/DVA/API GateWay security-5.png",
+    "Image/DVA/API GateWay security-4.png",
+    "Image/DVA/API GateWay security-3.png",
+    "Image/DVA/API GateWay security-2.png",
+    "Image/DVA/API GateWay security-1.png",
+    "md/API GateWay consol1.md",
+    "Image/DVA/API GateWay consol1-5.png",
+    "Image/DVA/API GateWay consol1-4.png",
+    "md/API GateWay Stage.md",
+    "md/API GateWay Integration.md",
+    "md/API GateWay Stage variable.md",
+    "md/API GateWay cache.md",
+    "md/API GateWay Mapping Template.md",
+    "md/API GateWay Canary.md",
+    "md/Lambda.md",
     "md/Lambda etc.md",
     "md/Lambda external dependencies.md",
-    "Image/DVA/Lambda etc-1.png",
     "md/Lambda CloudFormation.md",
     "md/Lambda URLs.md",
     "md/Lambda CodeDeploy.md",
-    "Image/DVA/Lambda URLs-3.png",
-    "Image/DVA/Lambda URLs-2.png",
-    "Image/DVA/Lambda URLs-1.png",
-    "Image/DVA/Lambda CodeDeploy-2.png",
-    "Image/DVA/Lambda CodeDeploy-1.png",
     "md/Distribution method.md",
     "md/Lambda eventmapping.md",
     "md/Lambda alias & version.md",
-    "Image/DVA/Distribution method-6.png",
-    "Image/DVA/blue-green-deployment-4787416bca99a5dd28577d99caa44340.gif",
-    "Image/DVA/Distribution method-6.png",
-    "Image/DVA/Distribution method-5.png",
     "md/Lambda CloudFront.md",
     "md/DynamoDB.md",
     "md/Lambda VPC.md",
     "md/Lambda Layers.md",
     "md/Lambda monitoring.md",
     "md/Lambda authority.md",
-    "md/Lambda Asynchronous.md",
-    "md/Lambda ALB Integration.md",
-    "틀린거.md",
-    "md/Lambda Concurrency.md",
-    "md/IAM.md",
-    "테마.md",
-    "DAV.md",
-    "Template/DVA_template.md",
-    "md/2023-10-12.md",
     "무제 폴더",
-    "md/DynamoDB globalindex & localindex.md",
     "DynamoDB WCU ",
     "md/context.mdb",
     "aws_dva_obsidian",
