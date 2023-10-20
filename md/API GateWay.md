@@ -87,13 +87,13 @@
 ## 연결 문서
 
 - [[API GateWay consol1 |API GateWay 기본 실습]]
+- [[API GateWay API Type |API GateWay API 유형]]
 - [[API GateWay Stage |API GateWay 스테이지 & 실습]]
 - [[API GateWay Canary |API GateWay 카이나리 배포]]
 - [[API GateWay Integration |API GateWay 통합 타입]]
 - [[API GateWay cache |API GateWay 캐쉬]]
 - [[API GateWay security |API GateWay 인증 및 권한부여]]
 - [[API GateWay usage plans |API GateWay 사용량 계획]]
-- [[API GateWay API Type |API GateWay API 유형]]
 - [[API GateWay monitoring |API GateWay 로깅 및 모니터링]]
 - [[API GateWay CORS |API GateWay CORS]]
 

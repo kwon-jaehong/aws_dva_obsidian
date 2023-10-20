@@ -8,7 +8,7 @@ body:not(.zoom-off) .view-content div:not(.canvas-node-content) img {
 }
 
 body:not(.zoom-off) .view-content div:not(.canvas-node-content) img:hover {
-  transform: scale(2.5); /* Zoom in on hover */
+  transform: scale(2.0); /* Zoom in on hover */
 }
 
 body:not(.zoom-off) .view-content .markdown-preview-view img[referrerpolicy=no-referrer]:active {

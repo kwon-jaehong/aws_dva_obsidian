@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "891e1777c44d2793",
+            "id": "3d38a5ed2f33be2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/API GateWay usage plans.md",
+                "file": "md/API GateWay API Type.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 284.5
   },
   "right": {
     "id": "e5b0602bc8ba5dfb",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/API GateWay usage plans.md"
+                "file": "md/API GateWay API Type.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/API GateWay usage plans.md",
+                "file": "md/API GateWay API Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/API GateWay usage plans.md",
+                "file": "md/API GateWay API Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,23 +211,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "891e1777c44d2793",
+  "active": "3d38a5ed2f33be2c",
   "lastOpenFiles": [
+    "Image/DVA/API GateWay API Type-4.png",
+    "Image/DVA/API GateWay API Type-3.png",
+    "Image/DVA/API GateWay API Type-2.png",
+    "Image/DVA/API GateWay API Type-1.png",
     "md/API GateWay.md",
-    "md/API GateWay security.md",
+    "md/API GateWay API Type.md",
     "md/API GateWay usage plans.md",
+    "Image/DVA/API GateWay usage plans-10.png",
+    "Image/DVA/API GateWay usage plans-9.png",
+    "Image/DVA/API GateWay usage plans-8.png",
+    "Image/DVA/API GateWay usage plans-7.png",
+    "Image/DVA/API GateWay usage plans-6.png",
+    "Image/DVA/API GateWay usage plans-5.png",
+    "Image/DVA/API GateWay usage plans-4.png",
+    "md/API GateWay security.md",
     "틀린거.md",
-    "Image/DVA/API GateWay security-8.png",
-    "Image/DVA/API GateWay security-7.png",
-    "Image/DVA/API GateWay security-6.png",
-    "Image/DVA/API GateWay security-5.png",
-    "Image/DVA/API GateWay security-4.png",
-    "Image/DVA/API GateWay security-3.png",
-    "Image/DVA/API GateWay security-2.png",
-    "Image/DVA/API GateWay security-1.png",
     "md/API GateWay consol1.md",
-    "Image/DVA/API GateWay consol1-5.png",
-    "Image/DVA/API GateWay consol1-4.png",
     "md/API GateWay Stage.md",
     "md/API GateWay Integration.md",
     "md/API GateWay Stage variable.md",
@@ -247,8 +249,6 @@
     "md/DynamoDB.md",
     "md/Lambda VPC.md",
     "md/Lambda Layers.md",
-    "md/Lambda monitoring.md",
-    "md/Lambda authority.md",
     "무제 폴더",
     "DynamoDB WCU ",
     "md/context.mdb",
