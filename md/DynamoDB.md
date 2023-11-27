@@ -6,7 +6,7 @@
 
 ## 내용 
 
-- 완전 관리형 서비스, <mark style="background: #FF5582A6;">NoSQL 기반이기에 SUM, AVG 등 집계 연산 불가능</mark>
+- 완전 관리형 서비스, <mark style="background: #ADCCFFA6;">NoSQL 기반이기에 SUM, AVG 등 집계 연산 불가능</mark>
 - 다이나모DB도 스탠다드, <mark style="background: #FF5582A6;">Infreequent Access(IA)</mark> -> 두 가지 테이블 클래스가 있음
 - DB에서 데이터의 최대 크기는 <mark style="background: #FF5582A6;">400KB</mark> 
 
